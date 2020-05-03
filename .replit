@@ -1,1 +1,1 @@
-run = "python latest_news.py"
+run = "pip3 install -r requirements.txt && python latest_news.py"
